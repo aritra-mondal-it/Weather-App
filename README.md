@@ -67,4 +67,4 @@ npm run build
 
 When you open the webpage by default, it shows London's weather informatics.
 
-<img src=""/>
+<img src="https://github.com/aritra-mondal-it/Weather-App/blob/main/Screenshots/Default_page.png"/>
