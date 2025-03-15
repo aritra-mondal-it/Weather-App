@@ -53,7 +53,7 @@ This is a simple weather application built using React. It allows users to searc
     npm start
     ```
 
-    * The app will be available at `http://localhost:3000`.
+    * The app will be available at `http://localhost:<host_number>`.
 
 ## Building for Production
 
@@ -61,3 +61,4 @@ To create a production build:
 
 ```bash
 npm run build
+
