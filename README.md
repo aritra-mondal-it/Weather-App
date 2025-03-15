@@ -24,7 +24,7 @@ This is a simple weather application built using React. It allows users to searc
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone "https://github.com/aritra-mondal-it/Weather-App.git"
     cd weather-app
     ```
 
@@ -44,7 +44,7 @@ This is a simple weather application built using React. It allows users to searc
     * Add your API key to the `.env.local` file:
 
         ```
-        REACT_APP_API_KEY=your_api_key_here
+        VITE_APP_ID=your_api_key_here
         ```
 
 5.  **Start the development server:**
