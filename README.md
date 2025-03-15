@@ -61,4 +61,10 @@ To create a production build:
 
 ```bash
 npm run build
+```
 
+## Screenshots of the webpage
+
+When you open the webpage by default, it shows London's weather informatics.
+
+<img src=""/>
