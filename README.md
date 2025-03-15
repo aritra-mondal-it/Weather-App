@@ -65,6 +65,14 @@ npm run build
 
 ## Screenshots of the webpage
 
-When you open the webpage by default, it shows London's weather informatics.
+**1. When you open the webpage by default, it shows London's weather informatics.**
 
 <img src="https://github.com/aritra-mondal-it/Weather-App/blob/main/Screenshots/Default_page.png"/>
+
+**2. After you search any city name, it displays the weather information of that city.**
+
+<img src="https://github.com/aritra-mondal-it/Weather-App/blob/main/Screenshots/New_page.png"/>
+
+## URL
+
+You can visit the webpage by clicking on this link - [https://weather-app-aritra-mondal-ju-it.netlify.app/](https://weather-app-aritra-mondal-ju-it.netlify.app/)
